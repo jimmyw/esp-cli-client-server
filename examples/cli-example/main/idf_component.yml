@@ -1,0 +1,4 @@
+dependencies:
+  jimmyw/esp-cli-client-server:
+    version: "*"
+    override_path: '../../../'
